@@ -1,6 +1,7 @@
-# Social-Media-API-Using-Node.js
+# Socail Circle Connecting people to people
 
-# -- Tech Stack --  
+# -- Tech Stack -- 
+# Front-End -- React.Js , CSS , HTML
 # Backend Language --    Node.Js
 # Framework --           Express.Js
 # Authorization/Token -- JWT(JSON WEB TOKEN)
